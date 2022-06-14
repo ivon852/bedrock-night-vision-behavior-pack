@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Night vision forever!\nBy Twitter@ivon852\nLicense: AGPL-3.0",
+        "name": "Night Vision Behavior",
+        "uuid": "40dbd6df-4a34-4fe4-972e-0720a2012c79",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 19, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Night Vision Behavior",
+            "type": "data",
+            "uuid": "bc31fbb0-6067-4826-8b2d-35c82e78e96a",
+            "version": [0, 0, 1]
+        }
+    ]
+}
